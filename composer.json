@@ -2,7 +2,7 @@
 	"name": "a7/admin-notices",
 	"description": "Quickly and easily add admin notices to WordPress.",
 	"type": "library",
-	"license": "UNLICENSE",
+	"license": "Unlicense",
 	"authors": [
 		{
 			"name": "A7",
